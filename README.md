@@ -72,7 +72,7 @@ Also, You can run code in [Google Colab](https://colab.research.google.com/githu
   
 3. Two-Stream Self-Attention with Target-Aware Representation
 
-   - Two-Stram Self-Attention
+   - Two-Stream Self-Attention
 
      ![](images/twoattn.png)
 
